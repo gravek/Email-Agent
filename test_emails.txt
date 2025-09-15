@@ -1,0 +1,94 @@
+# Sample emails for Testing and Real answers from the Support Agent (based on RAG)
+
+1. Question
+
+CUSTOMER
+Subject: Question about Num pricing
+Body: Hello, can you tell me what pricing plans are available for a fleet of 20 trucks?
+
+AGENT
+Subject: Re: Question about Num pricing
+Body: 
+Num currently offers five tiers:
+
+• Free — for very small fleets
+• Starter
+• Growth
+• Scale
+• Pro
+
+A 20-truck operation will most often fit into our Growth or Scale
+plans, depending on how many dispatcher seats and advanced features
+(e.g. multi-lane rate shopping, cross-broker bidding, dedicated SLA)
+you need. To get exact pricing and see a side-by-side feature
+breakdown, please schedule a quick demo with our team or reach out to
+your Numeo sales rep.
+
+
+2. Refund request with Order ID found in DB
+
+CUSTOMER
+Subject: Refund request
+Body: Good day, please process a refund. Order ID: 11111-XYZ.
+
+AGENT: Your refund request for Order ID 11111-XYZ will be processed within 3 days.
+
+
+3. Refund request with Order ID NOT found in DB
+
+CUSTOMER
+Subject: my mistake
+Body: Guys, please return money, the order id 00000-WRONG.
+
+AGENT: Invalid Order ID: 00000-WRONG. Please verify.
+CUSTOMER: My order id 00000-WRONG
+AGENT: None	--> not_found_refund
+(AGENT (turned off option): We couldn't process your refund request as no valid Order ID was provided. If you have a valid order, please start a new conversation.)
+
+
+4. 
+
+CUSTOMER
+Subject: Refund question
+Body: Hello, I want to request a refund but cannot find my Order ID. What should I do?
+
+AGENT: Please provide the Order ID in the format 'Order ID: XXXXX' (e.g., Order ID: 12345-ABCDE).
+CUSTOMER: Are you really so smart?
+AGENT: None	--> not_found_refund
+(AGENT (turned off option): Invalid Order ID 00000-WRONG provided again. Refund request closed.)
+
+5. 
+
+CUSTOMER
+Subject: Question about TMS integration
+Body: Can I connect Num to our existing transportation management system? Is there a setup guide?
+
+AGENT: 
+Yes. Num offers one-click integration with most Transportation
+Management Systems. To set it up:
+1. Log in to your Num dashboard.
+2. Navigate to “Integrations” and select your TMS platform.
+3. Follow the on-screen, step-by-step setup guide.
+
+If you run into any issues or your TMS isn’t listed, please contact
+Num support for assistance.
+
+
+6. 
+
+CUSTOMER
+Subject: tea, coffee, dancing?
+Body: Hi, can you tell me how to order coffee at your office?
+
+AGENT: None	--> unhandled_emails
+
+
+7.
+
+CUSTOMER
+Subject: Great deal
+Body: Hi, how to call to your leading manager?
+
+AGENT: None	--> unhandled_emails
+
+

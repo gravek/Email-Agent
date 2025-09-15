@@ -1,0 +1,9 @@
+streamlit
+google-api-python-client
+google-auth-oauthlib
+langchain
+langchain-openai
+langchain-community
+psycopg2-binary
+chromadb
+faiss-cpu

@@ -1,0 +1,45 @@
+# Question Category
+
+Q: What is Num and how does it help in logistics?
+A: Num is an AI platform that optimizes dispatcher processes in logistics. It automates broker calls, rate negotiations, freight booking, and status updates in real time, allowing you to focus on growing your business.
+
+Q: How do I connect Num to my Transportation Management System (TMS)?
+A: Num offers one-click integration with popular TMS platforms and other logistics services. Use the Num dashboard for setup or contact support for assistance.
+
+Q: What are the pricing plans for Numeo?
+A: Num offers several pricing tiers, including a free plan for small fleets, Starter, Growth, Scale, and Pro with different dispatcher seats and features. For details and demos, schedule a meeting with Numeo.
+
+Q: How does the AI Updater Agent work?
+A: The AI Updater Assistant automatically sends brokers real-time load status updates via email, SMS, or calls, reducing manual follow-up and improving communication.
+
+Q: What if the bot cannot answer my question?
+A: If the bot cannot provide an answer, your email will be saved as unhandled with high importance and a specialist will contact you shortly.
+
+***
+
+# Refund Category
+
+Q: How do I request a refund?
+A: Please provide your Order ID to process the refund request. Refunds for valid orders are processed within 3 days.
+
+Q: I want to request a refund but don’t know my Order ID. What should I do?
+A: Please send your Order ID or contact support for help locating it.
+
+Q: My Order ID is invalid.
+A: We could not find an order with that ID. Please check and resend it. Repeated invalid IDs will be logged as not found.
+
+Q: I sent the same invalid Order ID again.
+A: Your repeated invalid refund request has been logged for review. Our team will follow up if needed.
+
+Q: I sent something else instead of an Order ID regarding a refund.
+A: Your request has been logged as a not found refund request. Please contact support for further assistance.
+
+***
+
+# Other / Non-sense Emails
+
+Q: My email does not fit into questions or refund requests.
+A: Thank you for reaching out. We have saved your email and assessed its importance. For urgent assistance, please contact support directly.
+
+Q: Unclear or unrelated inquiries.
+A: Thank you for your message. Could you please clarify your request? We will assist you as soon as possible.
